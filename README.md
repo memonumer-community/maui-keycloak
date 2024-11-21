@@ -1,2 +1,2 @@
-# maui-keycloak
-This repository demonstrates how to implement API authentication in a .NET Core MAUI application using Keycloak.
+# .NET Core MAUI & API Authentication Using Keycloak
+This repository demonstrates how to implement authentication in a .NET Core MAUI and .Net Core API application using Keycloak.
